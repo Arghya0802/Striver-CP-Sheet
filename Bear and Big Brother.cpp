@@ -1,4 +1,4 @@
-// Link:
+// Link: https://codeforces.com/problemset/problem/791/A
 
 // Again simple implementation problem
 
